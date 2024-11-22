@@ -45,7 +45,7 @@ This project aims to simplify and automate the attendance process for educationa
    ```  
 2. Navigate to the project directory:  
    ```bash  
-   cd Student-Management-Attendance  
+   cd Student-management-System-using-python  
    ```  
 3. Install the required Python libraries:  
    ```bash  
