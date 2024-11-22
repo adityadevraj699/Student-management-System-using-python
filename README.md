@@ -41,7 +41,7 @@ This project aims to simplify and automate the attendance process for educationa
 ### Steps  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/Student-Management-Attendance.git  
+   git clone https://github.com/adityadevraj699/Student-management-System-using-python.git
    ```  
 2. Navigate to the project directory:  
    ```bash  
